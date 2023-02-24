@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Pornbub显示下载按钮
+// @icon         
 // @namespace    http://tampermonkey.net/
 // @version      0.183
 // @description  同时支持手机小屏和PC大屏
 // @author       Lukezh
 // @match        https://*.pornhub.com/view_video.php*
-// @require      https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js
+// @require      https://raw.githubusercontent.com/LikeGEM/Greasemonkey/main/pornhub.js
 // @grant        none
 // ==/UserScript==
 
