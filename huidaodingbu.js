@@ -5,6 +5,7 @@
 // @author			@leo
 // @email           ygnh136@qq.com
 // @match        *://*/*
+// @icon         https://github.com/LikeGEM/PNG/raw/main/huidaodingbu.png
 // @grant        GM_notification
 // @grant        GM_addStyle
 // @license      MIT
