@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Pornbub显示下载按钮
-// @icon         
+// @icon         https://github.com/LikeGEM/PNG/raw/main/pornhub.png
 // @namespace    http://tampermonkey.net/
 // @version      0.183
 // @description  同时支持手机小屏和PC大屏
